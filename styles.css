@@ -137,9 +137,9 @@ p {
   text-wrap: balance;
 }
 
-.home-hero-title {
+.intro h1.home-hero-title {
   max-width: 100%;
-  font-size: clamp(2.1rem, 5vw, 3.75rem);
+  font-size: clamp(2.1rem, 4.8vw, 3.55rem);
   text-wrap: wrap;
 }
 
