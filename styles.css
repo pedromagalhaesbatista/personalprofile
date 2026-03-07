@@ -137,6 +137,12 @@ p {
   text-wrap: balance;
 }
 
+.home-hero-title {
+  max-width: 100%;
+  font-size: clamp(2.1rem, 5vw, 3.75rem);
+  text-wrap: wrap;
+}
+
 .lead {
   max-width: 68ch;
   margin: 0;
