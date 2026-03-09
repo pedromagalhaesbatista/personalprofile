@@ -231,6 +231,17 @@ p {
   letter-spacing: 0.12em;
 }
 
+.entry-meta-highlight {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.28rem 0.6rem;
+  border: 1px solid rgba(91, 67, 48, 0.26);
+  border-radius: 999px;
+  background: rgba(91, 67, 48, 0.08);
+  color: var(--accent);
+  font-weight: 700;
+}
+
 .entry h3 {
   margin: 0 0 10px;
   font-family: "EB Garamond", Georgia, serif;
